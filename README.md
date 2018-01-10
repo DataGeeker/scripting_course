@@ -1,4 +1,8 @@
-Use [![Join the chat at https://gitter.im/learnbyexample/scripting_course](https://badges.gitter.im/learnbyexample/scripting_course.svg)](https://gitter.im/learnbyexample/scripting_course) for Q&A on command line and scripting
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/ShixiangWang/scripting_course/graphs/commit-activity) [![GitHub issues](https://img.shields.io/github/issues/ShixiangWang/scripting_course.svg)](https://GitHub.com/ShixiangWang/scripting_course/issues/) [![GitHub issues-closed](https://img.shields.io/github/issues-closed/ShixiangWang/scripting_course.svg)](https://GitHub.com/ShixiangWang/scripting_course/issues?q=is%3Aissue+is%3Aclosed) 
+
+原仓库-->[English version](https://github.com/learnbyexample/scripting_course)，有问题上Gitter聊天室，点击[![Join the chat at https://gitter.im/learnbyexample/scripting_course](https://badges.gitter.im/learnbyexample/scripting_course.svg)](https://gitter.im/learnbyexample/scripting_course)。
+
+中文交流Gitter聊天室，点击[![Join the chat at https://gitter.im/Scripts-tyro/Lobby](https://badges.gitter.im/Scripts-tyro/Lobby.svg)](https://gitter.im/Scripts-tyro/Lobby)
 
 # Scripting Course
 
@@ -52,3 +56,5 @@ Do NOT copy bash and vim customization files (files starting with .) directly to
 
 ## License
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+[![licensebuttons by-nc-sa](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0)
