@@ -4,6 +4,8 @@
 
 中文交流Gitter聊天室，点击[![Join the chat at https://gitter.im/Scripts-tyro/Lobby](https://badges.gitter.im/Scripts-tyro/Lobby.svg)](https://gitter.im/Scripts-tyro/Lobby)
 
+**推荐**：[Discord中文聊天室](https://discord.gg/7TNWGn)
+
 # Scripting Course
 
 A reference guide to Linux command line, Vim and Scripting
