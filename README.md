@@ -6,15 +6,15 @@
 
 **推荐**：[Discord中文聊天室](https://discord.gg/7TNWGn)
 
-# Scripting Course
+# 脚本课程
 
-A reference guide to Linux command line, Vim and Scripting
+一个Linux命令行、Vim和脚本的参考指南
 
-* [Linux Command Line](https://github.com/learnbyexample/Linux_command_line) - Introduction to Linux commands and Shell scripting
-* [Command Line Text Processing](https://github.com/learnbyexample/Command-line-text-processing) - From finding text to search and replace, from sorting to beautifying text and more
-* [Vim Reference](https://github.com/learnbyexample/vim_reference) - Vim reference guide for beginner to intermediate users
-* [Perl Introduction](https://github.com/learnbyexample/Perl_intro) - Introductory course for Perl 5 through examples, geared towards VLSI engineers
-* [Python Basics](https://github.com/learnbyexample/Python_Basics) - Syntax, working with Shell commands, Files, Text Processing, and more...
+* [Linux命令行](https://github.com/ShixiangWang/Linux_command_line) - 介绍Linux命令和Shell脚本
+* [命令行文本处理](https://github.com/ShixiangWang/Command-line-text-processing) - 从查找文本到搜索和替换，从排序到美化文本以及更多 
+* [Vim 参考](https://github.com/ShixiangWang/vim_reference) - Vim初学者到进阶的参考指南
+* [Perl 介绍](https://github.com/ShixiangWang/Perl_intro) - 通过实例演示的Perl5介绍课程
+* [Python基础](https://github.com/ShixiangWang/Python_Basics) - 语法，处理Shell命令、文件、文本处理等等...
 
 <br>
 
