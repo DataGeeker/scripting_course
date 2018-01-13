@@ -1,18 +1,26 @@
-Perl resources (mostly Perl 5)
+Perl资源（大多数Perl 5）
 
-Get Perl for your OS from official website - https://www.perl.org/get.html
+从官方网站为你的系统获取Perl - https://www.perl.org/get.html
 
-# :hash: Table of Contents
 
-* [Tutorials](#tutorials)
-* [Regular Expressions](#regular-expressions)
-* [Further Reading](#further-reading)
+<details>
+<summary>Table of Contents</summary>
+
+# Table of Contents
+
+* [教程](#tutorials)
+* [正则表达式](#regular-expressions)
+* [进一步阅读](#further-reading)
 * [Perl 6](#perl-6)
-* [Forums](#forums)
+* [论坛](#forums)
+
+</details>
+
+---
 
 <br>
 
-# <a name="tutorials"></a>Tutorials
+# <a name="tutorials"></a>教程
 
 Read this [article](http://perl-tutorial.org/learn/) on spotting good and modern Perl tutorial before starting your journey
 
@@ -39,7 +47,7 @@ use autodie;
 
 <br>
 
-# <a name="regular-expressions"></a>Regular Expressions
+# <a name="regular-expressions"></a>正则表达式
 
 * Guide to regular expressions from Perldoc site
     * [quick start](https://perldoc.perl.org/perlrequick.html)
@@ -55,7 +63,7 @@ use autodie;
 
 <br>
 
-# <a name="further-reading"></a>Further Reading
+# <a name="further-reading"></a>进一步阅读
 
 * [Lots and lots of snippets/solutions of programming problems](https://rosettacode.org/wiki/Category:Perl)
 * [Perl one-liners](http://www.catonmat.net/series/perl-one-liners-explained) 
@@ -73,8 +81,8 @@ use autodie;
 # <a name="perl-6"></a>Perl 6
 
 * [official site](https://perl6.org/) - all about Perl 6
-	* [5to6-nutshell](https://docs.perl6.org/language/5to6-nutshell)
-	* [examples](https://examples.perl6.org/)
+  * [5to6-nutshell](https://docs.perl6.org/language/5to6-nutshell)
+  * [examples](https://examples.perl6.org/)
 * [learnxinyminutes - perl6](https://learnxinyminutes.com/docs/perl6/)
 * [What is Perl 5 and Perl 6?](http://perl-begin.org/learn/perl6/) - also has links to Perl 6 resources
 * [perl6 faq](https://doc.perl6.org/language/faq)
@@ -83,7 +91,7 @@ use autodie;
 
 <br>
 
-# <a name="forums"></a>Forums
+# <a name="forums"></a>论坛
 
 * [/r/perl/](https://www.reddit.com/r/perl/)
 * [stackoverflow](https://stackoverflow.com/tags/perl)
