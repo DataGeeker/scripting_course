@@ -4,19 +4,19 @@
 
 <details>
 <summary>Table of Contents</summary>
-# :hash: Table of Contents
+# Table of Contents
 
-* [Courses: online text tutorials](#course-text)
-* [Courses: online video/interactive tutorials](#course-interactive)
-* [Shell Scripting](#shell-scripting)
-    * [Scripting companion](#scripting-companion)
-* [Books](#books)
-* [Tips and Tricks](#tips-and-tricks)
-* [Resources for specific commands](#specific-commands)
-    * [Text and File processing](#text-file-processing)
-    * [Miscellaneous](#miscellaneous)
-* [Further Reading](#further-reading)
-* [Forums](#forums)
+* [Courses: 线上文本教程](#course-text)
+* [Courses: 线上视频/交互式教程](#course-interactive)
+* [Shell脚本](#shell-scripting)
+    * [Scripting伴侣](#scripting-companion)
+* [书籍](#books)
+* [建议和技巧](#tips-and-tricks)
+* [特定命令操作资源](#specific-commands)
+    * [文本和文件处理](#text-file-processing)
+    * [混杂](#miscellaneous)
+* [进一步阅读](#further-reading)
+* [论坛](#forums)
 
 </details>
 
@@ -24,7 +24,7 @@
 
 <br>
 
-# <a name="course-text"></a>Courses: online text tutorials
+# <a name="course-text"></a>Courses: 线上文本教程
 
 * [ryanstutorial](https://ryanstutorials.net/linuxtutorial/)
 * [snipcademy](https://code.snipcademy.com/tutorials/linux-command-line)
