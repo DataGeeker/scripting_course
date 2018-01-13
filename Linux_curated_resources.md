@@ -4,6 +4,7 @@
 
 <details>
 <summary>Table of Contents</summary>
+
 # Table of Contents
 
 * [Courses: 线上文本教程](#course-text)
@@ -35,7 +36,7 @@
 
 <br>
 
-# <a name="course-interactive"></a>Courses: online video/interactive tutorials
+# <a name="course-interactive"></a>Courses: 线上视频/交互式教程
 
 * [linuxjourney](https://linuxjourney.com/)
 * [codecademy](https://www.codecademy.com/learn/learn-the-command-line)
@@ -47,7 +48,7 @@
 
 <br>
 
-# <a name="shell-scripting"></a>Shell Scripting
+# <a name="shell-scripting"></a>Shell脚本
 
 * [Bash Guide](http://mywiki.wooledge.org/BashGuide)
 * [ryanstutorial](https://ryanstutorials.net/bash-scripting-tutorial/)
@@ -57,7 +58,7 @@
 * [learnshell](http://www.learnshell.org/)
 * [bash shell scripting](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
 
-### <a name="scripting-companion"></a>Scripting companion
+### <a name="scripting-companion"></a>Scripting伴侣
 
 * [shellcheck](https://github.com/koalaman/shellcheck) - linting tool to avoid common mistakes
 * [bash FAQ](http://mywiki.wooledge.org/BashFAQ), [bash Practices](http://mywiki.wooledge.org/BashGuide/Practices) and [bash pitfalls](http://mywiki.wooledge.org/BashPitfalls) - comprehensive lists
@@ -67,7 +68,7 @@
 
 <br>
 
-# <a name="books"></a>Books
+# <a name="books"></a>书籍
 
 * [Bash Guide](http://mywiki.wooledge.org/BashGuide)
 * [The Linux Command Line](http://linuxcommand.org/tlcl.php)
@@ -76,7 +77,7 @@
 
 <br>
 
-# <a name="tips-and-tricks"></a>Tips and Tricks
+# <a name="tips-and-tricks"></a>建议和技巧
 
 * [art of command line](https://github.com/jlevy/the-art-of-command-line)
 * [command line tricks](https://stackoverflow.com/questions/68372/what-is-your-single-most-favorite-command-line-trick-using-bash)
@@ -86,13 +87,13 @@
 
 <br>
 
-# <a name="specific-commands"></a>Resources for specific commands
+# <a name="specific-commands"></a>特定命令操作资源
 
 * [Linux Commands In Structured Order](https://linoxide.com/guide/linux-command-shelf.html)
 * [discussion on useful Linux commands](https://www.reddit.com/r/linuxadmin/comments/1x0ql2/whats_a_linux_command_you_wish_you_had_known/)
 * [general purpose command line tools](http://www.compciv.org/unix-tools/)
 
-### <a name="text-file-processing"></a>Text and File processing
+### <a name="text-file-processing"></a>文本和文件处理
 
 * [All about replacing strings in file(s)](https://unix.stackexchange.com/questions/112023/how-can-i-replace-a-string-in-a-files)
 * [Text Processing Commands](http://tldp.org/LDP/abs/html/textproc.html)
@@ -114,7 +115,7 @@
 * [ack/ag](http://conqueringthecommandline.com/book/ack_ag) - searching a large number of files fast and easy
 * [sort](http://www.skorks.com/2010/05/sort-files-like-a-master-with-the-linux-sort-command-bash/)
 
-### <a name="miscellaneous"></a>Miscellaneous
+### <a name="miscellaneous"></a>混杂
 
 * [Unix and Linux Permissions Primer](https://danielmiessler.com/study/unixlinux_permissions/)
 * [rsync](https://www.digitalocean.com/community/tutorials/how-to-use-rsync-to-sync-local-and-remote-directories-on-a-vps)
@@ -123,7 +124,7 @@
 
 <br>
 
-# <a name="further-reading"></a>Further Reading
+# <a name="further-reading"></a>进一步阅读
 
 * [Unix as IDE](https://sanctum.geek.nz/arabesque/series/unix-as-ide/)
 * [command line Q&A](https://unix.stackexchange.com/questions/tagged/command-line?sort=votes&pageSize=15)
@@ -146,7 +147,7 @@
 
 <br>
 
-# <a name="forums"></a>Forums
+# <a name="forums"></a>论坛
 
 Read instructions provided by respective forums before asking a question. Try solving it yourself before asking - searching online, manual, ask a colleague, etc. 
 
