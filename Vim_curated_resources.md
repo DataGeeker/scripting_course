@@ -1,22 +1,29 @@
-Vim resources
+Vim资源
 
-* About, Download, Documentation, etc - https://github.com/vim/vim
+* 关于，下载，文档等等 - https://github.com/vim/vim
 * [Vim v8.0.0000 release](https://github.com/vim/vim/releases/tag/v8.0.0000)
     * [release notes](https://github.com/vim/vim/blob/master/runtime/doc/version8.txt)
 
-# :hash: Table of Contents
+<details>
+<summary>Table of Contents</summary>
 
-* [Tutorials](#tutorials)
-* [Books and Documentation](#books-and-documentation)
+# Table of Contents
+
+* [教程](#tutorials)
+* [书籍和说明文档](#books-and-documentation)
 * [Cheat-sheets](#cheat-sheets)
-* [Customize](#customize)
-* [Tips and Tricks](#tips-and-tricks)
-* [Further Reading](#further-reading)
-* [Forums](#forums)
+* [自定义](#customize)
+* [建议和技巧](#tips-and-tricks)
+* [进一步阅读](#further-reading)
+* [论坛](#forums)
+
+</details>
+
+---
 
 <br>
 
-# <a name="tutorials"></a>Tutorials
+# <a name="tutorials"></a>教程
 
 * [vim primer](https://danielmiessler.com/study/vim/)
 * [vim galore](https://github.com/mhinz/vim-galore/blob/master/README.md)
@@ -26,7 +33,7 @@ Vim resources
 
 <br>
 
-# <a name="books-and-documentation"></a>Books and Documentation
+# <a name="books-and-documentation"></a>书籍和说明文档
 
 * [Practical Vim](https://pragprog.com/book/dnvim2/practical-vim-second-edition) - published 2015
    * Also check out [vimcasts](http://vimcasts.org/episodes/)
@@ -50,7 +57,7 @@ And [Vim script cheatsheet](http://ricostacruz.com/cheatsheets/vimscript.html) -
 
 <br>
 
-# <a name="customize"></a>Customize
+# <a name="customize"></a>自定义
 
 * [vim as IDE](http://yannesposito.com/Scratch/en/blog/Vim-as-IDE/)
 * [awesome vim plugins](https://vimawesome.com/)
@@ -62,7 +69,7 @@ And [Vim script cheatsheet](http://ricostacruz.com/cheatsheets/vimscript.html) -
 
 <br>
 
-# <a name="tips-and-tricks"></a>Tips and Tricks
+# <a name="tips-and-tricks"></a>建议和技巧
 
 * [Using built-in vim help](https://stackoverflow.com/questions/25474313/how-do-i-find-out-what-a-vim-command-does)
 * [Navigating Vim's documentation](https://vi.stackexchange.com/questions/2136/how-do-i-navigate-to-topics-in-vims-documentation/2137#2137)
@@ -76,7 +83,7 @@ And [Vim script cheatsheet](http://ricostacruz.com/cheatsheets/vimscript.html) -
 
 <br>
 
-# <a name="further-reading"></a>Further Reading
+# <a name="further-reading"></a>进一步阅读
 
 * [vimgolf](http://www.vimgolf.com/)
 * [vimgifs](https://vimgifs.com/)
@@ -89,7 +96,7 @@ And [Vim script cheatsheet](http://ricostacruz.com/cheatsheets/vimscript.html) -
 
 <br>
 
-# <a name="forums"></a>Forums
+# <a name="forums"></a>论坛
 
 Read instructions provided by respective forums before asking a question. Try solving it yourself before asking - searching online, manual, ask a colleague, etc. 
 
