@@ -20,8 +20,8 @@
 
 ## 在虚拟机上尝试Linux
 
-* [安装Linux虚拟机简介](https://jingyan.baidu.com/article/14bd256e0ca52ebb6d26129c.html)
-* 至于Linux发行版，你可以使用我自定义的 [Porteus](http://build.porteus.org/)，我在其中添加了gvim、Perl、Python2和Python3。它是一个轻量级的发行版（ISO文件 < 200MB），所以选择512MB的内存对于基本的需求就足够了，而且启动在5秒以内
+* [安装Linux虚拟机简介](https://jingyan.baidu.com/article/14bd256e0ca52ebb6d26129c.html) （**注**：我个人还是推荐使用[ubuntu系统](https://www.ubuntu.com/download/desktop)，用习惯了，感觉比较好用，当然你也可以按照下方说明操作）
+* 至于Linux发行版，你可以使用我（原作者）自定义的 [Porteus](http://build.porteus.org/)，我在其中添加了gvim、Perl、Python2和Python3。它是一个轻量级的发行版（ISO文件 < 200MB），所以选择512MB的内存对于基本的需求就足够了，而且启动在5秒以内
   * Porteus_32bit.iso [原镜像地址](https://drive.google.com/open?id=0B7SzVctdXWlUYy1QZG1NX2xyYVk) [百度云地址](https://pan.baidu.com/s/1o9AqrYM)
   * Porteus_64bit.iso [原镜像地址](https://drive.google.com/open?id=0B7SzVctdXWlUV3kyNlhMU29PMUk) [百度云地址](https://pan.baidu.com/s/1kW7E9aZ)
   * 两个版本都有 `/tmp/useful_files/`目录，包含dot文件（要拷贝到home目录）和一些学习Perl和Python3的程序。
