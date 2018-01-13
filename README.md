@@ -18,17 +18,18 @@
 
 <br>
 
-## Try Linux on a VM
+## 在虚拟机上尝试Linux
 
-* [Simple guide to install Linux as Virtual Machine](http://www.storagecraft.com/blog/the-dead-simple-guide-to-installing-a-linux-virtual-machine-on-windows/)
-* For Linux distro, you can check out a custom [Porteus](http://build.porteus.org/) build I made with addition of gvim, Perl, Python 2 and Python 3. It is a light weight distro, < 200MB ISO file (so, selecting RAM size of 512MB is enough for most purposes) and boots usually within 5 seconds
-  * [Porteus_32bit.iso](https://drive.google.com/open?id=0B7SzVctdXWlUYy1QZG1NX2xyYVk)
-  * [Porteus_64bit.iso](https://drive.google.com/open?id=0B7SzVctdXWlUV3kyNlhMU29PMUk)
-  * Both the builds have a folder at `/tmp/useful_files/` which contains dot files (to be copied to home directory) and handful of Perl and Python 3 programs for learning purposes
-  * The default passwords are `toor` for root and `guest` for guest - [Porteus FAQ](http://www.porteus.org/faq.html)
-* If you get errors like **kernel panic**, you might have to [Enable Intel VT-x in Your Computer’s BIOS or UEFI Firmware](http://www.howtogeek.com/213795/how-to-enable-intel-vt-x-in-your-computers-bios-or-uefi-firmware/)
+* [安装Linux虚拟机简介](https://jingyan.baidu.com/article/14bd256e0ca52ebb6d26129c.html)
+* 至于Linux发行版，你可以使用我自定义的 [Porteus](http://build.porteus.org/)，我在其中添加了gvim、Perl、Python2和Python3。它是一个轻量级的发行版（ISO文件 < 200MB），所以选择512MB的内存对于基本的需求就足够了，而且启动在5秒以内
+  * Porteus_32bit.iso [原镜像地址](https://drive.google.com/open?id=0B7SzVctdXWlUYy1QZG1NX2xyYVk) [百度云地址](https://pan.baidu.com/s/1o9AqrYM)
+  * Porteus_64bit.iso [原镜像地址](https://drive.google.com/open?id=0B7SzVctdXWlUV3kyNlhMU29PMUk) [百度云地址](https://pan.baidu.com/s/1kW7E9aZ)
+  * 两个版本都有 `/tmp/useful_files/`目录，包含dot文件（要拷贝到home目录）和一些学习Perl和Python3的程序。
+  * root用户的默认密码是`toor`，guest则是`guest` -  [Porteus FAQ](http://www.porteus.org/faq.html)
+* 如果你看到**kernel panic**这样的错误，你可能需要 [Enable Intel VT-x in Your Computer’s BIOS or UEFI Firmware](http://www.howtogeek.com/213795/how-to-enable-intel-vt-x-in-your-computers-bios-or-uefi-firmware/)。
 
-**Further Reading** Guide to choosing your Linux Distribution, installation, list of applications, etc
+选择Linux发行版本、安装和系列应用等等的进一步**阅读指南**
+
 * [awesome-linux](https://github.com/aleksandar-todorovic/awesome-linux#distributions)
 * [computefreely](http://computefreely.org/)
 * [Arch wiki - list of applications](https://wiki.archlinux.org/index.php/List_of_applications)
@@ -36,27 +37,28 @@
 
 <br>
 
-## Curated resources
+## 整理的资源
 
-List of mostly free learning resources and forums for Q&A
+免费学习资源和问答论坛列表
 
 * [Linux](./Linux_curated_resources.md)
 * [Vim](./Vim_curated_resources.md)
 * [Perl](./Perl_curated_resources.md)
 * [Python](./Python_curated_resources.md)
 
-Curated lists for programming, books, movies, music, games, etc
+整理的编程、书籍、视频、音乐、游戏等等列表
 
-* [Curated Resources](https://github.com/learnbyexample/curated_resources)
-
-<br>
-
-## dot files
-Do NOT copy bash and vim customization files (files starting with .) directly to your home directory. You might overwrite useful settings already present. Understand them and add as necessary
+* [Curated Resources](https://github.com/ShixiangWang/curated_resources)
 
 <br>
 
-## License
-This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+## dot文件
+
+不要拷贝bash和vim自定义的文件（文件名以.起始）直接到你的home目录。你可能会覆盖当前一些有用的设置。理解它们并在必要时添加。
+
+<br>
+
+## 许可证协议
+本工作基于 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 [![licensebuttons by-nc-sa](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0)
