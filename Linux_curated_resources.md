@@ -1,7 +1,9 @@
-Handful of useful resources for Linux command line and bash shell scripting
+一些有用的Linux命令行和bash shell脚本学习的资源
 
-Guide to choosing your Linux Distribution, list of applications, etc: [awesome-linux](https://github.com/aleksandar-todorovic/awesome-linux#distributions) and [computefreely](http://computefreely.org/)
+指导你如何选择Linux发行版，应用列表，例如： [awesome-linux](https://github.com/aleksandar-todorovic/awesome-linux#distributions) 和 [computefreely](http://computefreely.org/)
 
+<details>
+<summary>Table of Contents</summary>
 # :hash: Table of Contents
 
 * [Courses: online text tutorials](#course-text)
@@ -15,6 +17,10 @@ Guide to choosing your Linux Distribution, list of applications, etc: [awesome-l
     * [Miscellaneous](#miscellaneous)
 * [Further Reading](#further-reading)
 * [Forums](#forums)
+
+</details>
+
+---
 
 <br>
 
