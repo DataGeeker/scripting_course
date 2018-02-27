@@ -30,18 +30,18 @@
 # <a name="courses-text"></a>Courses - 线上文本/pdf教程
 
 * [automatetheboringstuff](https://automatetheboringstuff.com/) 
-  * also visit [inventwithpython](https://inventwithpython.com/) for more stuff from this author
-* [Think Python](http://greenteapress.com/wp/think-python-2e/) - also freely available as [pdf](http://greenteapress.com/thinkpython2/thinkpython2.pdf)
-* [diveintopython](http://www.diveintopython3.net/) - also freely available as [pdf](https://github.com/downloads/diveintomark/diveintopython3/dive-into-python3.pdf)
+  * 访问[inventwithpython](https://inventwithpython.com/)获取这个作者更多的资料
+* [Think Python](http://greenteapress.com/wp/think-python-2e/) - 可获取[pdf](http://greenteapress.com/thinkpython2/thinkpython2.pdf)
+* [diveintopython](http://www.diveintopython3.net/) - 可获取[pdf](https://github.com/downloads/diveintomark/diveintopython3/dive-into-python3.pdf)
 * [A Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython)
-* [A Byte of Python](https://python.swaroopch.com/) - also freely available as [pdf](https://www.gitbook.com/download/pdf/book/swaroopch/byte-of-python)
+* [A Byte of Python](https://python.swaroopch.com/) - 可获取[pdf](https://www.gitbook.com/download/pdf/book/swaroopch/byte-of-python)
 * [Python Informatics](http://do1.dr-chuck.com/py4inf/EN-us/book.pdf) 
 * [Python for you and me](https://pymbook.readthedocs.org/en/latest/) 
 * [python-course](https://python-course.eu/python3_history_and_philosophy.php) 
-* [Non-Programmer's Tutorial for Python 3](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3) - also available as [pdf](https://upload.wikimedia.org/wikipedia/commons/1/1d/Non-Programmer%27s_Tutorial_for_Python_3.pdf)
-* [Practice Book](http://anandology.com/python-practice-book/getting-started.html) - Python 2, good exercises for each topic
+* [Non-Programmer's Tutorial for Python 3](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3) - 可获取[pdf](https://upload.wikimedia.org/wikipedia/commons/1/1d/Non-Programmer%27s_Tutorial_for_Python_3.pdf)
+* [练习书](http://anandology.com/python-practice-book/getting-started.html) - Python 2，每个主题都有很好的练习
 
-## Quick Guides
+## 快速指南
 
 * [Python Notes](https://www.thomas-cokelaer.info/tutorials/python/index.html)
 * [learnxinyminutes - Python3](https://learnxinyminutes.com/docs/python3/)
@@ -61,7 +61,7 @@
 * [youtube - Python programming](https://www.youtube.com/playlist?list=PL6lxxT7IdTxFKo9DguLxGM2dhgb8-u976)
 * [Google - Python 2](https://developers.google.com/edu/python/)
 * [youtube - learn Python 2 and make games](https://www.youtube.com/playlist?list=PLeLU1pCom3Oo4w7XE3wlrdWv6v7lA0hwb)
-* [Real Python](https://realpython.com/) - focus on web development
+* [Real Python](https://realpython.com/) - 聚焦于web开发
 * [newcoder - project based](http://newcoder.io/tutorials/)
 * [opencs - Python from scratch](https://opencs.uwaterloo.ca/python-from-scratch/)
 * [cscircles - example and exercise based](https://cscircles.cemc.uwaterloo.ca/)
@@ -74,8 +74,8 @@
 * [Fluent Python](http://shop.oreilly.com/product/0636920032519.do)
 * [Python Cookbook](http://shop.oreilly.com/product/0636920027072.do)
 * [Python for Kids](https://www.nostarch.com/pythonforkids)
-* book lists
-  * [pythonbooks - Discover the best books in every Python book category](https://pythonbooks.org/)
+* 书单
+  * [pythonbooks - Discover the best books in every Python book category](https://pythonbooks.org/)
   * [free programming books - Python](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#python)
 
 <br>
@@ -84,7 +84,7 @@
 
 * [Python 3](https://docs.python.org/3/index.html)
 * [Python 2.7](https://docs.python.org/2.7/)
-* [Cheat Sheet by Derek](https://www.newthinktank.com/2014/11/python-programming/) - has an accompanying [video](https://www.youtube.com/watch?v=N4mEzFDjqtA) as well
+* [Cheat Sheet by Derek](https://www.newthinktank.com/2014/11/python-programming/) - 也有对应的[video](https://www.youtube.com/watch?v=N4mEzFDjqtA)
 * [Python Crash Course - cheatsheet](https://ehmatthes.github.io/pcc/cheatsheets/README.html)
 * [Scientific Python Cheatsheet](https://ipgp.github.io/scientific_python_cheat_sheet/)
   * [github repo](https://github.com/IPGP/scientific_python_cheat_sheet)
@@ -96,7 +96,7 @@
 * [40 handy tricks](http://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html)
 * [useful snippets](http://fadymak.com/pages/useful_python_snippets.html)
 * [avoiding common gotchas](http://docs.python-guide.org/en/latest/writing/gotchas/)
-* [Transforming Code into Beautiful, Idiomatic Python](https://gist.github.com/JeffPaine/6213790) which is based on this [video](https://www.youtube.com/watch?feature=player_embedded&v=OSGv2VnC0go)
+* [Transforming Code into Beautiful, Idiomatic Python](https://gist.github.com/JeffPaine/6213790)，基于这个[video](https://www.youtube.com/watch?feature=player_embedded&v=OSGv2VnC0go)
 * [Python tips and features on Stackoverflow](https://stackoverflow.com/questions/101268/hidden-features-of-python)
 * [pythontips book](http://book.pythontips.com/en/latest/index.html)
 * One-liners: [#1](http://www.vurt.ru/2013/02/python-command-line-oneliners/), [#2](https://wiki.python.org/moin/Powerful%20Python%20One-Liners), [#3](http://python-oneliner.readthedocs.org/en/latest/)
@@ -105,7 +105,7 @@
 
 # <a name="indepth-concepts"></a>简单概念的深入分析/教程
 
-* See [this illustration](https://tech.io/playgrounds/500/advanced-python-features/content/advanced-python-features) for features like generators, collections, itertools, decorators, etc in action
+* [this illustration](https://tech.io/playgrounds/500/advanced-python-features/content/advanced-python-features) - 查看generators、 collections、itertools、decorator等等的特性
 * Collections
   * [offical doc](https://docs.python.org/3/library/collections.html)
 * Decorators
@@ -148,10 +148,10 @@
 
 # <a name="handy-tools"></a>便利工具
 
-* [Visualize code execution](http://www.pythontutor.com/visualize.html#mode=edit) - also has example codes and ability to share sessions
-* [CodeSkulptor](http://www.codeskulptor.org/) - runs Python programs in your browser, including GUI and has many demos
+* [Visualize code execution](http://www.pythontutor.com/visualize.html#mode=edit) - 有示例代码，可以分享线程
+* [CodeSkulptor](http://www.codeskulptor.org/) - 在浏览器上运行Python程序，包括GUI和很多demo
 * [regex tester](https://regex101.com/#python) - explainations on separate windows, includes quick references, ability to save and share
-* [Thonny](http://thonny.cs.ut.ee/) - Python IDE for beginners, lots of handy features like viewing variables, debugger, step through, highlight syntax errors, name completion, etc
+* [Thonny](http://thonny.cs.ut.ee/) - 初学者Python IDE，有很多便利的特性：查看变量、调试器、高亮语法错误、名称补全等等
 
 <br>
 
@@ -247,7 +247,7 @@
 
 # <a name="forums"></a>论坛
 
-Read instructions provided by respective forums before asking a question. Try solving it yourself before asking - searching online, manual, ask a colleague, etc. 
+在对应的论坛提问前阅读指示。在问之前尝试解决 - 网络搜索、查看手册、问同事等等。
 
 * [/r/learnpython](https://www.reddit.com/r/learnpython) - very friendly for newbies
 * [python-forum](https://python-forum.io/)
